@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xmc:home|Door43 (xmc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xmc|d43-xmc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmc/archive/master.zip|d43-xmc.zip]]
+
+**Recent Changes**
+{{changes>ns = xmc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xmc|Ethnologue data]]
+
